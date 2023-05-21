@@ -77,8 +77,8 @@ This is a console application written in TypeScript that allows you to enter pro
 
 ## Examples
 
-`Command "add product".`
-`User: add product`
+`Command "add product".`\n
+`User: add product`\n
 `Console: Enter product type. Available types: ice cream, soft drink`
 `User: ice cream`
 `Console: Enter product name`
