@@ -77,21 +77,16 @@ This is a console application written in TypeScript that allows you to enter pro
 
 ## Examples
 
-Command "add product".
-User: add product
-Console: Enter product type. Available types: ice cream, soft drink
-User: ice cream
-Console: Enter product name
-User: Delicious ice
-Console: Enter unit weight in grams
-User: 150
-Console: Product added
-Console: Command "add product" - "show list" to show the list of entered products.
-User: show list
-Console: List of entered products:
-Type: ice cream
-Name: Delicious ice
-Weight: 150 grams
+`Command "add product".`
+`User: add product`
+`Console: Enter product type. Available types: ice cream, soft drink`
+`User: ice cream`
+`Console: Enter product name`
+`User: Delicious ice`
+`Console: Enter unit weight in grams`
+`User: 150`
+`Console: Product added`
+`Console: Command "add product" - "show list" to show the list of entered products.`
 
 ## Contributing
 
