@@ -60,7 +60,7 @@ This is a console application written in TypeScript that allows you to enter pro
 
 1. Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/parpiyev/bitbucket
 
 markdown
 Copy code
@@ -72,14 +72,7 @@ npm install
 css
 Copy code
 
-3. Compile the TypeScript code:
-
-npm run build
-
-markdown
-Copy code
-
-4. Run the application:
+3. Run the application:
 
 npm start
 
