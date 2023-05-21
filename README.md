@@ -88,6 +88,12 @@ This is a console application written in TypeScript that allows you to enter pro
 9. `Console: Product added`
 10. `Console: Command "add product" - "show list" to show the list of entered products.`
 
+- `User: show list`
+- `Console: List of entered products:`
+- `Type: ice cream`
+- `Name: Delicious ice`
+- `Weight: 150 grams`
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
