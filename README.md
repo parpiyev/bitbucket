@@ -60,24 +60,15 @@ This is a console application written in TypeScript that allows you to enter pro
 
 1. Clone the repository:
 
-git clone https://github.com/parpiyev/bitbucket
-
-markdown
-Copy code
+`git clone https://github.com/parpiyev/bitbucket`
 
 2. Install the dependencies:
 
 npm install
 
-css
-Copy code
-
 3. Run the application:
 
 npm start
-
-bash
-Copy code
 
 ## Usage
 
